@@ -1,4 +1,4 @@
-# VITC Project Monorepo
+# VITC Project 
 
 A comprehensive platform for carbon credit trading, community governance, and NFT marketplace built on blockchain technology.
 
